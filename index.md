@@ -12,14 +12,14 @@ I worked with a group of engineering students to build an autonomous underwater 
 The project encompassed all aspects of design, prototyping, and testing for mechanical, electrical, and software components. This is where I designed and assembled my first PCB. It's where I reinforced my decision to become an engineer.
 
 ## Team
+### 2011 USC AUV Team
 <img src="http://niftyhedgehog.com/usc-auv/images/usc_auv_team_2011.jpg">
 
-2011 USC AUV Team
 Left to right: Ed, Hieu, Leah, Benzimra, John, Montalbo, Noah, Flo, Pierre, Rand
 
+### 2010 USC AUV Team
 <img src="http://niftyhedgehog.com/usc-auv/images/usc_auv_team_2010.jpg">
 
-2010 USC AUV Team
 Left to right: Ed, Benzimra, Laxman, Montalbo, David, Daniel, John, Dave, Hieu
 
 ## Contributions
