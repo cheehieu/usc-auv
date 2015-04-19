@@ -11,11 +11,13 @@ The project encompassed all aspects of design, prototyping, and testing for mech
 <img src="http://niftyhedgehog.com/usc-auv/images/usc_auv_team_2011.jpg">
 
 2011 USC AUV Team
+
 Left to right: Ed, Hieu, Leah, Benzimra, John, Montalbo, Noah, Flo, Pierre, Rand
 
 <img src="http://niftyhedgehog.com/usc-auv/images/usc_auv_team_2010.jpg">
 
 2010 USC AUV Team
+
 Left to right: Ed, Benzimra, Laxman, Montalbo, David, Daniel, John, Dave, Hieu
 
 ## Contributions
